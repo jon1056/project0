@@ -26,10 +26,15 @@ ol{
 }
 
 figure{
-    border: 3px solid greenyellow;
+    margin-top: 50px;
     
 }
 
+figure img{
+    border: 2px solid greenyellow;
+    margin-top: 20px;
+    
+}
 
 table{
     border: 2px solid white;
