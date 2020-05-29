@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    list-style-position: inside;
+}
+nav a{
+    color: whitesmoke;
+    padding: 5px;
+}
+nav a:hover{
+    color: yellowgreen;
+}
+
+h1{
+    font-size: 60px;
+    
+}
+h2{
+    margin-top: 60px;
+    font-size: 40px;    
+}
+
+ol{
+    align-content: left;
+}
+
+figure{
+    border: 3px solid greenyellow;
+    
+}
+
+
+table{
+    border: 2px solid white;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width:30%;
+}
+th,td {
+    border: 1px solid white;
+    padding:5px;
+}
+th{
+    background-color: indigo;
+}
